@@ -32,6 +32,7 @@ function Pagination(props) {
       </button>
       <button onClick={handleNext}>
         Next <FontAwesomeIcon icon={faArrowRight} />
+        <p>Lorem ipsum dolor sit amet.</p>
       </button>
     </div>
   );
